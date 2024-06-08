@@ -1,0 +1,30 @@
+/*Comentarios es CSS*/
+
+body{
+    background-color: darkorchid;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+#login-btn{
+    background-color: cadetblue;
+    color: #206a56;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#login-btn:hover {
+    background-color: blue;
+}
